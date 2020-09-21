@@ -376,7 +376,7 @@ function actualizarProgreso() {
             text: 'Ya no tienes tareas pendientes!',
 
         });
-        porcentajeStyle.style.backgroundColor = "red";
+        porcentajeStyle.style.backgroundColor = "#00e2ff";
 
     } else {
         porcentajeStyle.style.backgroundColor = "#00b762";
